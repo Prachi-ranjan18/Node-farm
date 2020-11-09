@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prachi-genius/nodeFarm.git"
+  },
+  "author": "Prachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prachi-genius/nodeFarm/issues"
+  },
+  "homepage": "https://github.com/prachi-genius/nodeFarm#readme",
+  "dependencies": {
+    "slugify": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
